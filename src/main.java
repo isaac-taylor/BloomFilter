@@ -5,14 +5,9 @@ import java.util.List;
 import net.sourceforge.sizeof.SizeOf;
 import bloomfilter.BloomSet;
 
-/**
- * main.java
- * Copyright AT&T 2012
- * Written by it153a
- */
 
 /**
- * @author it153a
+ * @author Isaac
  *
  */
 public class main {
